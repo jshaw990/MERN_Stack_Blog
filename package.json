@@ -1,0 +1,9 @@
+{
+  "name": "MERN-Stack-Blog",
+  "version": "1.0.0",
+  "description": "MERN Stack Blog 2021",
+  "main": "index.js",
+  "repository": "https://github.com/jshaw990/MERN_Stack_Blog.git",
+  "author": "Jayden Shaw",
+  "license": "MIT"
+}
